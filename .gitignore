@@ -1,0 +1,13 @@
+# working area for building demos — never published
+scratch/
+node_modules/
+
+# raw renders — only GIF previews ship
+*.mp4
+*.mov
+*.webm
+
+# OS noise
+desktop.ini
+Thumbs.db
+.DS_Store
