@@ -29,11 +29,9 @@
 | <img src="assets/gifs/feature-callout-ad.gif" width="200"> | [产品特性标注广告](product-ads/02-feature-callout-ad.md) | 标注线从产品上长出来，特性依次点亮 |
 | <img src="assets/gifs/before-after-wipe.gif" width="200"> | [Before/After 对比擦除](product-ads/03-before-after-wipe.md) | 发光分割线把"之前"擦成"之后" |
 | <img src="assets/gifs/cta-end-card.gif" width="200"> | [结尾 CTA 卡](product-ads/04-cta-end-card.md) | logo 落定 + 按钮呼吸 + 指尖点击 |
-| <img src="assets/gifs/unboxing-reveal.gif" width="200"> | [开箱揭晓广告](product-ads/05-unboxing-reveal.md) | 盖子掀开、产品带光晕升起旋转 |
-| <img src="assets/gifs/turntable-360-spin.gif" width="200"> | [360° 转台展示广告](product-ads/06-turntable-360-spin.md) | 产品转台转一圈，规格标注弹出 |
-| <img src="assets/gifs/exploded-view.gif" width="200"> | [爆炸拆解广告](product-ads/07-exploded-view.md) | 零件炸开悬浮标注，再严丝合缝复原 |
-| <img src="assets/gifs/review-social-proof.gif" width="200"> | [好评口碑广告](product-ads/08-review-social-proof.md) | 五星点亮、好评卡叠入、头像墙铺开 |
-| <img src="assets/gifs/price-drop-stamp.gif" width="200"> | [降价爆点广告](product-ads/09-price-drop-stamp.md) | 原价划掉、新价砸下、限时印章 + 倒计时 |
+| <img src="assets/gifs/exploded-view.gif" width="200"> | [爆炸拆解广告](product-ads/05-exploded-view.md) | 零件炸开悬浮标注，再严丝合缝复原 |
+| <img src="assets/gifs/review-social-proof.gif" width="200"> | [好评口碑广告](product-ads/06-review-social-proof.md) | 五星点亮、好评卡叠入、头像墙铺开 |
+| <img src="assets/gifs/price-drop-stamp.gif" width="200"> | [降价爆点广告](product-ads/07-price-drop-stamp.md) | 原价划掉、新价砸下、限时印章 + 倒计时 |
 
 ## 🅲 数据动画 · Data Animations
 
@@ -43,10 +41,9 @@
 | <img src="assets/gifs/bar-chart-grow.gif" width="200"> | [柱状图生长](data/02-bar-chart-grow.md) | 柱子按节奏长起来，冠军最后落地 |
 | <img src="assets/gifs/line-chart-draw.gif" width="200"> | [折线图描画 + 标注](data/03-line-chart-draw.md) | 趋势线一笔画出，关键点位弹标注 |
 | <img src="assets/gifs/donut-sweep.gif" width="200"> | [环形图扫入](data/04-donut-sweep.md) | 环形分段扫入，圆心数字滚动，主段高亮 |
-| <img src="assets/gifs/radial-gauge.gif" width="200"> | [环形仪表盘](data/05-radial-gauge.md) | 指针扫到目标值，弧条填充变色 |
-| <img src="assets/gifs/pictograph-isotype.gif" width="200"> | [图标阵列占比](data/06-pictograph-isotype.md) | 图标依次点亮，"10 个里有 7 个" |
-| <img src="assets/gifs/bar-chart-race.gif" width="200"> | [横向条形竞速榜](data/07-bar-chart-race.md) | 条形你追我赶、名次实时重排 |
-| <img src="assets/gifs/timeline-milestones.gif" width="200"> | [时间线里程碑](data/08-timeline-milestones.md) | 主线画出，里程碑节点依次弹入 |
+| <img src="assets/gifs/pictograph-isotype.gif" width="200"> | [图标阵列占比](data/05-pictograph-isotype.md) | 图标依次点亮，"10 个里有 7 个" |
+| <img src="assets/gifs/bar-chart-race.gif" width="200"> | [横向条形竞速榜](data/06-bar-chart-race.md) | 条形你追我赶、名次实时重排 |
+| <img src="assets/gifs/timeline-milestones.gif" width="200"> | [时间线里程碑](data/07-timeline-milestones.md) | 主线画出，里程碑节点依次弹入 |
 
 ## 🅳 字幕动效 · Caption Motion Graphics
 
@@ -73,7 +70,7 @@
 
 **A copy-paste prompt bank for HTML motion graphics.** Each entry pairs a GIF (the actual render) with the exact prompt that produced it. Hand the prompt to your coding agent (Claude Code / Codex) and render with [HyperFrames](https://www.npmjs.com/package/hyperframes) — see [getting-started.md](getting-started.md).
 
-Four categories: **Logo animations** (8: stroke-glow reveal / kinetic wordmark slam / RGB-split sting / liquid metaball morph / particle assembly / liquid fill / 3D extrude spin / neon flicker-on) · **Product ads** (9: phone-mockup / feature callouts / before-after wipe / CTA end-card / unboxing / 360 turntable / exploded view / review social-proof / price-drop stamp) · **Data animations** (8: count-up dashboard / bar-chart grow / line-chart draw / donut sweep / radial gauge / pictograph isotype / bar-chart race / timeline milestones) · **Caption motion graphics** (12: hero slam / word-pop karaoke / behind-subject ghost / RGB glitch / script-poster stack / interlock stack / highlighter pills / z-punch camera fly / text-behind-text / word halo / scatter full-bleed / rack-focus blur — register guide in [captions/README.md](captions/README.md)).
+Four categories: **Logo animations** (8: stroke-glow reveal / kinetic wordmark slam / RGB-split sting / liquid metaball morph / particle assembly / liquid fill / 3D extrude spin / neon flicker-on) · **Product ads** (7: phone-mockup / feature callouts / before-after wipe / CTA end-card / exploded view / review social-proof / price-drop stamp) · **Data animations** (7: count-up dashboard / bar-chart grow / line-chart draw / donut sweep / pictograph isotype / bar-chart race / timeline milestones) · **Caption motion graphics** (12: hero slam / word-pop karaoke / behind-subject ghost / RGB glitch / script-poster stack / interlock stack / highlighter pills / z-punch camera fly / text-behind-text / word halo / scatter full-bleed / rack-focus blur — register guide in [captions/README.md](captions/README.md)).
 
 Every prompt is self-contained with `{PLACEHOLDER}` tokens for your brand, copy, and data. The GIFs were rendered from these exact prompts — what you see is what the prompt builds.
 
