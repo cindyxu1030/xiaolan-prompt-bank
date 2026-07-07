@@ -6,8 +6,15 @@
 |---|---|---|---|
 | 默认档 | [逐字卡拉OK](02-word-pop-karaoke.md) | 整条视频的常规台词，跟着人声逐字点亮 | 全程 |
 | 重音档 | [巨字重锤](01-hero-slam.md) | 金句/数字/结论 — 值得钉进观众脑子的那句 | 2–4 次 |
+| 重音档·王牌 | [冲脸巨字](08-zpunch-camera-fly.md) | 全片最大的那一个词 — 从深处飞到脸上 | **1 次** |
 | 空间档 | [人后穿字](03-behind-subject-ghost.md) | 章节转场、氛围词 — 给画面加纵深 | 1–2 次 |
+| 空间档 | [环绕字光环](10-word-halo.md) | 一句话像念头一样盘旋在头顶 | 1 次 |
+| 空间档 | [满幅散布巨字](11-scatter-fullbleed.md) | 整句拆词散进画面 — johnbucog 招牌 | 1–2 拍 |
+| 空间档 | [字后穿字](09-text-behind-text.md) | 两个词自带前后景 — 无需抠像的纵深 | 1 次 |
+| 镜头档 | [焦点拉字](12-rackfocus-blur.md) | 文字变成镜头里的一层实体 — 情绪拍 | 1 次 |
 | 特效档 | [RGB 故障字](04-rgb-glitch-caption.md) | 冲突/警告/科技感的那一拍 | **1 次** |
+| 结构档 | [咬合字块](06-interlock-stack.md) | 收尾陈述 — 一句话咬合成一个 logo | 1 次 |
+| 结构档 | [荧光笔药丸字](07-highlighter-pills.md) | 条款/权利/清单 — 荧光笔圈重点 | 1 组 |
 | 海报档 | [手写海报叠字](05-script-poster-stack.md) | 开场定调或结尾金句 — 一帧变海报 | 1 次 |
 
 ## 通用法则（不分档位）· Universal rules
@@ -23,4 +30,4 @@
 
 ## English — register guide
 
-Caption styles are **registers**, not decorations — one intensity all video long means no intensity at all. Word-pop karaoke is the running default; the hero slam marks 2–4 quotable beats; behind-subject ghost adds depth once or twice; RGB glitch fires exactly once; the script-poster stack opens or closes the video. Universal rules from the johnbucog frame-by-frame breakdown: animate on word-level VO timestamps, 2.5–4× scale contrast, two colors max (one accent on the one word that matters), the punch lives in 4–6 frames (`1.16→1.0 power4.out`), nothing ever sits fully still, and text may bleed frame edges but never covers the face.
+Caption styles are **registers**, not decorations — one intensity all video long means no intensity at all. Word-pop karaoke is the running default; the hero slam marks 2–4 quotable beats (z-punch is its once-per-video ace); the spatial registers (behind-subject ghost, word halo, scatter full-bleed, text-behind-text) add depth on 1–2 beats each; rack-focus turns the type into a physical plane for one emotional beat; RGB glitch fires exactly once; interlock stack and highlighter pills structure a closing statement or a list; the script-poster stack opens or closes the video. Universal rules from the johnbucog frame-by-frame breakdown: animate on word-level VO timestamps, 2.5–4× scale contrast, two colors max (one accent on the one word that matters), the punch lives in 4–6 frames (`1.16→1.0 power4.out`), nothing ever sits fully still, and text may bleed frame edges but never covers the face.

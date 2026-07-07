@@ -44,6 +44,13 @@
 | <img src="assets/gifs/behind-subject-ghost.gif" width="200"> | [人后穿字](captions/03-behind-subject-ghost.md) | 巨字从人身后穿过，瞬间有纵深 |
 | <img src="assets/gifs/rgb-glitch-caption.gif" width="200"> | [RGB 故障字](captions/04-rgb-glitch-caption.md) | 色散抖动锁定 — 一条视频用一次 |
 | <img src="assets/gifs/script-poster-stack.gif" width="200"> | [手写海报叠字](captions/05-script-poster-stack.md) | 粗黑海报骨架 + 手写签名描画 |
+| <img src="assets/gifs/interlock-stack.gif" width="200"> | [咬合字块](captions/06-interlock-stack.md) | 单词像填字游戏咬合成一个字块 |
+| <img src="assets/gifs/highlighter-pills.gif" width="200"> | [荧光笔药丸字](captions/07-highlighter-pills.md) | 荧光药丸一颗颗盖章落下 |
+| <img src="assets/gifs/zpunch-camera-fly.gif" width="200"> | [冲脸巨字](captions/08-zpunch-camera-fly.md) | 单词从画面深处飞到你脸上 |
+| <img src="assets/gifs/text-behind-text.gif" width="200"> | [字后穿字](captions/09-text-behind-text.md) | 一个词从另一个巨字的笔画后滑过 |
+| <img src="assets/gifs/word-halo.gif" width="200"> | [环绕字光环](captions/10-word-halo.md) | 单词沿椭圆环绕在人物头部周围 |
+| <img src="assets/gifs/scatter-fullbleed.gif" width="200"> | [满幅散布巨字](captions/11-scatter-fullbleed.md) | 巨字散布人物四周，有的藏进身后 |
+| <img src="assets/gifs/rackfocus-blur.gif" width="200"> | [焦点拉字](captions/12-rackfocus-blur.md) | 文字和人物在同一镜头里拉焦点 |
 
 ---
 
@@ -51,7 +58,7 @@
 
 **A copy-paste prompt bank for HTML motion graphics.** Each entry pairs a GIF (the actual render) with the exact prompt that produced it. Hand the prompt to your coding agent (Claude Code / Codex) and render with [HyperFrames](https://www.npmjs.com/package/hyperframes) — see [getting-started.md](getting-started.md).
 
-Four categories: **Logo animations** (stroke-glow reveal / kinetic wordmark slam / RGB-split sting) · **Product ads** (phone-mockup demo / feature callouts / before-after wipe / CTA end-card) · **Data animations** (count-up dashboard / bar-chart grow / line-chart draw) · **Caption motion graphics** (hero slam / word-pop karaoke / behind-subject ghost / RGB glitch / script-poster stack — register guide in [captions/README.md](captions/README.md)).
+Four categories: **Logo animations** (stroke-glow reveal / kinetic wordmark slam / RGB-split sting) · **Product ads** (phone-mockup demo / feature callouts / before-after wipe / CTA end-card) · **Data animations** (count-up dashboard / bar-chart grow / line-chart draw) · **Caption motion graphics** (12 styles: hero slam / word-pop karaoke / behind-subject ghost / RGB glitch / script-poster stack / interlock stack / highlighter pills / z-punch camera fly / text-behind-text / word halo / scatter full-bleed / rack-focus blur — register guide in [captions/README.md](captions/README.md)).
 
 Every prompt is self-contained with `{PLACEHOLDER}` tokens for your brand, copy, and data. The GIFs were rendered from these exact prompts — what you see is what the prompt builds.
 
