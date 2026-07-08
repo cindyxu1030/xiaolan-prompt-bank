@@ -6,6 +6,8 @@
 
 **怎么用:** 看 [getting-started.md](getting-started.md)（3 步：init → 贴 prompt → render）。
 
+**想投稿自己的动效?** 看 [CONTRIBUTING.md](CONTRIBUTING.md) —— GIF 必须由你的 prompt 真实渲染出来。 · **Want to submit your own?** See [CONTRIBUTING.md](CONTRIBUTING.md).
+
 ---
 
 ## 🅰 Logo 动画 · Logo Animations
