@@ -16,6 +16,7 @@
 | 产品广告 | `product-ads/` | 9:16 (1080×1920) |
 | 数据动画 | `data/` | 9:16 (1080×1920) |
 | 字幕动效 | `captions/` | 9:16 (1080×1920) |
+| 发布片场景 | `trailer/` | 16:9 (1920×1080) |
 
 - 文件命名：`<下一个序号>-<英文-slug>.md`（看该文件夹现有最大序号 +1），例如 `logo/09-holographic-tilt.md`。
 - GIF 命名：`assets/gifs/<英文-slug>.gif`（和条目页同名，不带序号）。
@@ -85,7 +86,7 @@ Thanks for contributing your own motion-graphics prompt! This bank has one promi
 
 ### What a submission is
 
-One submission = **one `.md` entry page + one GIF**, dropped into the matching category folder: `logo/` (usually 16:9), `product-ads/` / `data/` / `captions/` (9:16). Name the page `<next-number>-<english-slug>.md` (look at the folder's highest number, +1); name the GIF `assets/gifs/<english-slug>.gif` (same slug, no number). Copy [`ENTRY-TEMPLATE.md`](ENTRY-TEMPLATE.md) to start.
+One submission = **one `.md` entry page + one GIF**, dropped into the matching category folder: `logo/` (usually 16:9), `product-ads/` / `data/` / `captions/` (9:16), `trailer/` (16:9). Name the page `<next-number>-<english-slug>.md` (look at the folder's highest number, +1); name the GIF `assets/gifs/<english-slug>.gif` (same slug, no number). Copy [`ENTRY-TEMPLATE.md`](ENTRY-TEMPLATE.md) to start.
 
 ### The 6 hard rules
 

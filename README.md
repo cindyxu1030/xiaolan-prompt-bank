@@ -66,13 +66,29 @@
 | <img src="assets/gifs/scatter-fullbleed.gif" width="200"> | [满幅散布巨字](captions/11-scatter-fullbleed.md) | 巨字散布人物四周，有的藏进身后 |
 | <img src="assets/gifs/rackfocus-blur.gif" width="200"> | [焦点拉字](captions/12-rackfocus-blur.md) | 文字和人物在同一镜头里拉焦点 |
 
+## 🅴 发布片场景 · Launch-Trailer Scenes
+
+16:9 电影感画幅（1920×1080），产品发布片 / launch trailer 的整场镜头 — 逆向自真实 AI 产品发布片的可复用场景。
+
+| 预览 | 名称 | 效果 |
+|---|---|---|
+| <img src="assets/gifs/prompt-bar-hero.gif" width="200"> | [提示词输入条开场](trailer/01-prompt-bar-hero.md) | 发光输入条逐字打出、光标点击发送、炸出巨字宣言 |
+| <img src="assets/gifs/video-wall-mosaic.gif" width="200"> | [成片墙爆开](trailer/02-video-wall-mosaic.md) | 几十张成片卡从景深飞入散落成墙，"50 videos. one upload." |
+| <img src="assets/gifs/ai-scorecard-panel.gif" width="200"> | [AI 评分面板](trailer/03-ai-scorecard-panel.md) | 玻璃面板滑入：分数滚动、星星点亮、指标卡叠入 |
+| <img src="assets/gifs/agent-task-stream.gif" width="200"> | [Agent 任务流](trailer/04-agent-task-stream.md) | 状态点依次亮起 + AI 思考文字流式打出带荧光高亮 |
+| <img src="assets/gifs/keyword-path-sting.gif" width="200"> | [关键词连线快闪](trailer/05-keyword-path-sting.md) | 渐变光线划过，划到哪儿哪个关键词弹出，合体成宣言 |
+| <img src="assets/gifs/feature-orbit-logo.gif" width="200"> | [功能星环 Logo](trailer/06-feature-orbit-logo.md) | logo 落定中心，功能胶囊带迷你 UI 绕着漂浮 |
+| <img src="assets/gifs/drop-anything-stack.gif" width="200"> | [万物拖入](trailer/07-drop-anything-stack.md) | 链接/文档/图片/视频甩进画面，巨字被撞，吸入发光槽 |
+| <img src="assets/gifs/aurora-glass-panels.gif" width="200"> | [极光玻璃面板](trailer/08-aurora-glass-panels.md) | 极光虚空里玻璃 UI 面板漂浮，色块片段依次点亮 |
+| <img src="assets/gifs/orb-equation-card.gif" width="200"> | [光球等式卡](trailer/09-orb-equation-card.md) | 发光球拉伸成箭头："1 hour → 20 seconds" 视觉等式 |
+
 ---
 
 ## English
 
 **A copy-paste prompt bank for HTML motion graphics.** Each entry pairs a GIF (the actual render) with the exact prompt that produced it. Hand the prompt to your coding agent (Claude Code / Codex) and render with [HyperFrames](https://www.npmjs.com/package/hyperframes) — see [getting-started.md](getting-started.md).
 
-Four categories: **Logo animations** (8: stroke-glow reveal / kinetic wordmark slam / RGB-split sting / liquid metaball morph / particle assembly / liquid fill / 3D extrude spin / neon flicker-on) · **Product ads** (7: phone-mockup / feature callouts / before-after wipe / CTA end-card / exploded view / review social-proof / price-drop stamp) · **Data animations** (7: count-up dashboard / bar-chart grow / line-chart draw / donut sweep / pictograph isotype / bar-chart race / timeline milestones) · **Caption motion graphics** (12: hero slam / word-pop karaoke / behind-subject ghost / RGB glitch / script-poster stack / interlock stack / highlighter pills / z-punch camera fly / text-behind-text / word halo / scatter full-bleed / rack-focus blur — register guide in [captions/README.md](captions/README.md)).
+Five categories: **Logo animations** (8: stroke-glow reveal / kinetic wordmark slam / RGB-split sting / liquid metaball morph / particle assembly / liquid fill / 3D extrude spin / neon flicker-on) · **Product ads** (7: phone-mockup / feature callouts / before-after wipe / CTA end-card / exploded view / review social-proof / price-drop stamp) · **Data animations** (7: count-up dashboard / bar-chart grow / line-chart draw / donut sweep / pictograph isotype / bar-chart race / timeline milestones) · **Caption motion graphics** (12: hero slam / word-pop karaoke / behind-subject ghost / RGB glitch / script-poster stack / interlock stack / highlighter pills / z-punch camera fly / text-behind-text / word halo / scatter full-bleed / rack-focus blur — register guide in [captions/README.md](captions/README.md)) · **Launch-trailer scenes** (9, all 16:9 cinematic, reverse-engineered from real AI-product launch films: prompt-bar typing hero / video-wall mosaic / AI scorecard panel / agent task stream / keyword path sting / feature-orbit logo / drop-anything stack / aurora glass panels / orb equation card).
 
 Every prompt is self-contained with `{PLACEHOLDER}` tokens for your brand, copy, and data. The GIFs were rendered from these exact prompts — what you see is what the prompt builds.
 
