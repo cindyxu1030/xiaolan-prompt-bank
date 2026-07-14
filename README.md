@@ -100,16 +100,7 @@
 | <img src="assets/gifs/iris-porthole-reveal.gif" width="200"> | [舷窗开阖](transitions/02-iris-porthole-reveal.md) | 圆形观测窗虹膜式旋开，窗里是另一个世界 |
 | <img src="assets/gifs/morph-match-cut.gif" width="200"> | [变形匹配剪辑](transitions/03-morph-match-cut.md) | 一个物体连续变形穿过三个场景，视线永不断 |
 
-## 🅶 手绘动画 · Sketch Animation
-
-纸上手绘感的动效语言：沸腾线 + 可表演的手绘角色。9:16（1080×1920）。
-
-| 预览 | 名称 | 效果 |
-|---|---|---|
-| <img src="assets/gifs/boiling-line-scene.gif" width="200"> | [沸腾线手绘场景](sketch/01-boiling-line-scene.md) | 线稿画出自己，整幅画永远在轻微"沸腾" |
-| <img src="assets/gifs/sketch-puppet-actor.gif" width="200"> | [手绘小人演员](sketch/02-sketch-puppet-actor.md) | 有关节的手绘小人真的在演：走、抓、拽、拍手 |
-
-## 🅷 打击特效 · Impact VFX
+## 🅶 打击特效 · Impact VFX
 
 游戏级打击感与能量特效，零素材纯代码。16:9（1920×1080）。
 
@@ -125,7 +116,7 @@
 
 **A copy-paste prompt bank for HTML motion graphics.** Each entry pairs a GIF (the actual render) with the exact prompt that produced it. Hand the prompt to your coding agent (Claude Code / Codex) and render with [HyperFrames](https://www.npmjs.com/package/hyperframes) — see [getting-started.md](getting-started.md).
 
-Eight categories: **Logo animations** (8: stroke-glow reveal / kinetic wordmark slam / RGB-split sting / liquid metaball morph / particle assembly / liquid fill / 3D extrude spin / neon flicker-on) · **Product ads** (7: phone-mockup / feature callouts / before-after wipe / CTA end-card / exploded view / review social-proof / price-drop stamp) · **Data animations** (7: count-up dashboard / bar-chart grow / line-chart draw / donut sweep / pictograph isotype / bar-chart race / timeline milestones) · **Caption motion graphics** (14: hero slam / word-pop karaoke / behind-subject ghost / RGB glitch / script-poster stack / interlock stack / highlighter pills / z-punch camera fly / text-behind-text / word halo / scatter full-bleed / rack-focus blur / cascade-path text / audio-reactive ripple — register guide in [captions/README.md](captions/README.md)) · **Launch-trailer scenes** (15, all 16:9 cinematic, reverse-engineered from real AI-product launch films: prompt-bar typing hero / video-wall mosaic / AI scorecard panel / agent task stream / keyword path sting / feature-orbit logo / drop-anything stack / aurora glass panels / orb equation card / split-edge captions / wordmark morph / frame break-out / cursor UI performance / conveyor stages / claw grab-and-miss) · **Scene transitions** (3: circle-swallow takeover / iris porthole reveal / morph match-cut) · **Sketch animation** (2: boiling-line scene / sketch puppet actor) · **Impact VFX** (3: impact shockwave / afterimage echo trail / rune sigil circle).
+Seven categories: **Logo animations** (8: stroke-glow reveal / kinetic wordmark slam / RGB-split sting / liquid metaball morph / particle assembly / liquid fill / 3D extrude spin / neon flicker-on) · **Product ads** (7: phone-mockup / feature callouts / before-after wipe / CTA end-card / exploded view / review social-proof / price-drop stamp) · **Data animations** (7: count-up dashboard / bar-chart grow / line-chart draw / donut sweep / pictograph isotype / bar-chart race / timeline milestones) · **Caption motion graphics** (14: hero slam / word-pop karaoke / behind-subject ghost / RGB glitch / script-poster stack / interlock stack / highlighter pills / z-punch camera fly / text-behind-text / word halo / scatter full-bleed / rack-focus blur / cascade-path text / audio-reactive ripple — register guide in [captions/README.md](captions/README.md)) · **Launch-trailer scenes** (15, all 16:9 cinematic, reverse-engineered from real AI-product launch films: prompt-bar typing hero / video-wall mosaic / AI scorecard panel / agent task stream / keyword path sting / feature-orbit logo / drop-anything stack / aurora glass panels / orb equation card / split-edge captions / wordmark morph / frame break-out / cursor UI performance / conveyor stages / claw grab-and-miss) · **Scene transitions** (3: circle-swallow takeover / iris porthole reveal / morph match-cut) · **Impact VFX** (3: impact shockwave / afterimage echo trail / rune sigil circle).
 
 Every prompt is self-contained with `{PLACEHOLDER}` tokens for your brand, copy, and data. The GIFs were rendered from these exact prompts — what you see is what the prompt builds.
 
