@@ -16,6 +16,8 @@
 | 结构档 | [咬合字块](06-interlock-stack.md) | 收尾陈述 — 一句话咬合成一个 logo | 1 次 |
 | 结构档 | [荧光笔药丸字](07-highlighter-pills.md) | 条款/权利/清单 — 荧光笔圈重点 | 1 组 |
 | 海报档 | [手写海报叠字](05-script-poster-stack.md) | 开场定调或结尾金句 — 一帧变海报 | 1 次 |
+| 空间档 | [弧线滚落字](13-cascade-path-text.md) | 整句顺着画面里的光束/弧线滚落 — 句子长、负空间呈弧形时 | 1 次 |
+| 质感档 | [声波律动字](14-audio-reactive-ripple.md) | hero 巨字的字母跟着人声波形起伏 — 叠加在重音档巨字上用 | hero 词通用 |
 
 ## 通用法则（不分档位）· Universal rules
 

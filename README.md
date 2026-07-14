@@ -65,6 +65,8 @@
 | <img src="assets/gifs/word-halo.gif" width="200"> | [环绕字光环](captions/10-word-halo.md) | 单词沿椭圆环绕在人物头部周围 |
 | <img src="assets/gifs/scatter-fullbleed.gif" width="200"> | [满幅散布巨字](captions/11-scatter-fullbleed.md) | 巨字散布人物四周，有的藏进身后 |
 | <img src="assets/gifs/rackfocus-blur.gif" width="200"> | [焦点拉字](captions/12-rackfocus-blur.md) | 文字和人物在同一镜头里拉焦点 |
+| <img src="assets/gifs/cascade-path-text.gif" width="200"> | [弧线滚落字](captions/13-cascade-path-text.md) | 整句沿弧线绕着人物滚落，词贴切线角度 |
+| <img src="assets/gifs/audio-reactive-ripple.gif" width="200"> | [声波律动字](captions/14-audio-reactive-ripple.md) | 字母跟着人声波形起伏 — 被声音推着动 |
 
 ## 🅴 发布片场景 · Launch-Trailer Scenes
 
@@ -81,6 +83,41 @@
 | <img src="assets/gifs/drop-anything-stack.gif" width="200"> | [万物拖入](trailer/07-drop-anything-stack.md) | 链接/文档/图片/视频甩进画面，巨字被撞，吸入发光槽 |
 | <img src="assets/gifs/aurora-glass-panels.gif" width="200"> | [极光玻璃面板](trailer/08-aurora-glass-panels.md) | 极光虚空里玻璃 UI 面板漂浮，色块片段依次点亮 |
 | <img src="assets/gifs/orb-equation-card.gif" width="200"> | [光球等式卡](trailer/09-orb-equation-card.md) | 发光球拉伸成箭头："1 hour → 20 seconds" 视觉等式 |
+| <img src="assets/gifs/split-edge-captions.gif" width="200"> | [两端分置字幕](trailer/10-split-edge-captions.md) | 短语拆两半飞向画面两缘，包夹中间主体 |
+| <img src="assets/gifs/wordmark-morph.gif" width="200"> | [字标变身](trailer/11-wordmark-morph.md) | 字标 A 变身字标 B — 共用字母滑行、新字母从光点长出 |
+| <img src="assets/gifs/frame-breakout.gif" width="200"> | [画框破格](trailer/12-frame-breakout.md) | 内容在发光画框里播，重点一到撑满全屏 |
+| <img src="assets/gifs/cursor-ui-performance.gif" width="200"> | [光标演一遍](trailer/13-cursor-ui-performance.md) | 光标把产品 UI 用一遍：打字、选卡、开关、Generate |
+| <img src="assets/gifs/conveyor-stages.gif" width="200"> | [流水线拆解](trailer/14-conveyor-stages.md) | 整块裂成四个阶段块过工位，右侧合体驶出 |
+| <img src="assets/gifs/claw-grab-miss.gif" width="200"> | [爪机抓空](trailer/15-claw-grab-miss.md) | 机械爪两次抓不走发光信物 —"有些东西抓不走" |
+
+## 🅵 转场 · Scene Transitions
+
+场景与场景之间的"世界切换"装置。demo 为 9:16（1080×1920），同一套语法直接可用于 16:9。
+
+| 预览 | 名称 | 效果 |
+|---|---|---|
+| <img src="assets/gifs/circle-swallow-takeover.gif" width="200"> | [圆形吞没转场](transitions/01-circle-swallow-takeover.md) | 暗圆窗涌出吞掉亮色世界，金句后再退回 |
+| <img src="assets/gifs/iris-porthole-reveal.gif" width="200"> | [舷窗开阖](transitions/02-iris-porthole-reveal.md) | 圆形观测窗虹膜式旋开，窗里是另一个世界 |
+| <img src="assets/gifs/morph-match-cut.gif" width="200"> | [变形匹配剪辑](transitions/03-morph-match-cut.md) | 一个物体连续变形穿过三个场景，视线永不断 |
+
+## 🅶 手绘动画 · Sketch Animation
+
+纸上手绘感的动效语言：沸腾线 + 可表演的手绘角色。9:16（1080×1920）。
+
+| 预览 | 名称 | 效果 |
+|---|---|---|
+| <img src="assets/gifs/boiling-line-scene.gif" width="200"> | [沸腾线手绘场景](sketch/01-boiling-line-scene.md) | 线稿画出自己，整幅画永远在轻微"沸腾" |
+| <img src="assets/gifs/sketch-puppet-actor.gif" width="200"> | [手绘小人演员](sketch/02-sketch-puppet-actor.md) | 有关节的手绘小人真的在演：走、抓、拽、拍手 |
+
+## 🅷 打击特效 · Impact VFX
+
+游戏级打击感与能量特效，零素材纯代码。16:9（1920×1080）。
+
+| 预览 | 名称 | 效果 |
+|---|---|---|
+| <img src="assets/gifs/impact-shockwave.gif" width="200"> | [冲击波命中](vfx/01-impact-shockwave.md) | 白闪 + 冲击环 + 火花 + 飘字 + 创伤值震屏 |
+| <img src="assets/gifs/afterimage-echo-trail.gif" width="200"> | [残影拖尾](vfx/02-afterimage-echo-trail.md) | 冲刺留下一串渐隐分身，间距随加速度拉伸 |
+| <img src="assets/gifs/rune-sigil-circle.gif" width="200"> | [符文法阵](vfx/03-rune-sigil-circle.md) | 双环法阵自己画出来，符文逐个点亮到爆发 |
 
 ---
 
@@ -88,7 +125,7 @@
 
 **A copy-paste prompt bank for HTML motion graphics.** Each entry pairs a GIF (the actual render) with the exact prompt that produced it. Hand the prompt to your coding agent (Claude Code / Codex) and render with [HyperFrames](https://www.npmjs.com/package/hyperframes) — see [getting-started.md](getting-started.md).
 
-Five categories: **Logo animations** (8: stroke-glow reveal / kinetic wordmark slam / RGB-split sting / liquid metaball morph / particle assembly / liquid fill / 3D extrude spin / neon flicker-on) · **Product ads** (7: phone-mockup / feature callouts / before-after wipe / CTA end-card / exploded view / review social-proof / price-drop stamp) · **Data animations** (7: count-up dashboard / bar-chart grow / line-chart draw / donut sweep / pictograph isotype / bar-chart race / timeline milestones) · **Caption motion graphics** (12: hero slam / word-pop karaoke / behind-subject ghost / RGB glitch / script-poster stack / interlock stack / highlighter pills / z-punch camera fly / text-behind-text / word halo / scatter full-bleed / rack-focus blur — register guide in [captions/README.md](captions/README.md)) · **Launch-trailer scenes** (9, all 16:9 cinematic, reverse-engineered from real AI-product launch films: prompt-bar typing hero / video-wall mosaic / AI scorecard panel / agent task stream / keyword path sting / feature-orbit logo / drop-anything stack / aurora glass panels / orb equation card).
+Eight categories: **Logo animations** (8: stroke-glow reveal / kinetic wordmark slam / RGB-split sting / liquid metaball morph / particle assembly / liquid fill / 3D extrude spin / neon flicker-on) · **Product ads** (7: phone-mockup / feature callouts / before-after wipe / CTA end-card / exploded view / review social-proof / price-drop stamp) · **Data animations** (7: count-up dashboard / bar-chart grow / line-chart draw / donut sweep / pictograph isotype / bar-chart race / timeline milestones) · **Caption motion graphics** (14: hero slam / word-pop karaoke / behind-subject ghost / RGB glitch / script-poster stack / interlock stack / highlighter pills / z-punch camera fly / text-behind-text / word halo / scatter full-bleed / rack-focus blur / cascade-path text / audio-reactive ripple — register guide in [captions/README.md](captions/README.md)) · **Launch-trailer scenes** (15, all 16:9 cinematic, reverse-engineered from real AI-product launch films: prompt-bar typing hero / video-wall mosaic / AI scorecard panel / agent task stream / keyword path sting / feature-orbit logo / drop-anything stack / aurora glass panels / orb equation card / split-edge captions / wordmark morph / frame break-out / cursor UI performance / conveyor stages / claw grab-and-miss) · **Scene transitions** (3: circle-swallow takeover / iris porthole reveal / morph match-cut) · **Sketch animation** (2: boiling-line scene / sketch puppet actor) · **Impact VFX** (3: impact shockwave / afterimage echo trail / rune sigil circle).
 
 Every prompt is self-contained with `{PLACEHOLDER}` tokens for your brand, copy, and data. The GIFs were rendered from these exact prompts — what you see is what the prompt builds.
 
